@@ -1,10 +1,10 @@
-package demo.src.test.java.numberrangesummarizer;
+package numberrangesummarizer;
 
+import com.test.TakeHomeTest.numberrangesummarizer.NumberRangeSummarizer;
+import com.test.TakeHomeTest.numberrangesummarizer.NumberRangeSummarizerImp;
 import org.junit.jupiter.api.Assertions;
 
-import java.util.Arrays;
 import java.util.Collection;
-import java.util.List;
 
 class NumberRangeSummarizerImpTest {
 
@@ -46,3 +46,4 @@ class NumberRangeSummarizerImpTest {
        String result = numberRangeSummarizer.summarizeCollection(numbers);
        Assertions.assertEquals("1, 3, 6-8, 12-15, 21-24, 31", result);
     }
+}

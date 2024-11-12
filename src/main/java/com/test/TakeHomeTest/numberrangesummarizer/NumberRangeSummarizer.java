@@ -1,4 +1,4 @@
-package demo.src.main.java.com.numberrangesummarizer;
+package com.test.TakeHomeTest.numberrangesummarizer;
 
 import java.util.Collection;
 
