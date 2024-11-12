@@ -1,2 +1,0 @@
-# ImpactTakeHomeTest
-Take Home Test

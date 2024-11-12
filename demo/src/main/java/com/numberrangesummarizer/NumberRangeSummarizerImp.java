@@ -1,4 +1,4 @@
-package numberrangesummarizer;
+package demo.src.main.java.com.numberrangesummarizer;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
